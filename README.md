@@ -120,4 +120,13 @@ A redesign of a portfolio website for clients.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
