@@ -104,3 +104,11 @@ A redesign of a portfolio website for clients.
 </div>
 
 <img src="https://capsule-render.com/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
