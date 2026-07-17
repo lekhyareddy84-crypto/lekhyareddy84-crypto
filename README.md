@@ -126,6 +126,7 @@ A redesign of a portfolio website for clients.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A redesign of a portfolio website for clients.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
