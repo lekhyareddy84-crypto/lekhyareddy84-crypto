@@ -134,4 +134,12 @@ A redesign of a portfolio website for clients.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
