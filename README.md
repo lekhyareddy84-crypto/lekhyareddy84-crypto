@@ -147,4 +147,8 @@ A redesign of a portfolio website for clients.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/lekhyareddy84-crypto/lekhyareddy84-crypto/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
